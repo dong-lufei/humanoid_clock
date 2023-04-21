@@ -8,4 +8,4 @@
 
 > 插件地址 http://chabudai.org/blog/?p=59
 
-![加载人形时钟图片失败](out.gif)
+![加载人形时钟图片失败](https://i.postimg.cc/ZK15nH1G/out.gif)
